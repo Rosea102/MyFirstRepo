@@ -1,0 +1,7 @@
+"My Personal and Academic Goals for Next Year"
+
+- Improve my Bash scripting and GitHub skills.
+- Complete my ALX courses.
+- Get a good online job that pays well.
+- Start building my small personal projects.
+- Apply for scholarships to get a degree in cybersecurity.
